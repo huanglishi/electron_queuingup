@@ -1,0 +1,9 @@
+{
+    "base_url":"https://kf.mammav.com/apipc",
+    "font_size":25,
+    "MQTT_SERVICE":"ws://mq.xx.com:8083/mqtt",
+    "MQTT_USERNAME" :"admin",
+    "MQTT_PASSWORD" : "publicXXXX",
+    "CALL_TEXT" : "到登记台准备",
+    "MQTT_TOPIC" : "queuingup"
+}
