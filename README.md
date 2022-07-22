@@ -34,6 +34,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 3、操作步骤：
 
     相关文件汇总下载：[http://pan.baidu.com/s/1pLUCvSv](下载文件地址)
+    
+    
   ```
     a、下载TTSrepair.exe安装，说明：该安装程序为第三方公司提供，已经过多次测试未发现病毒，是从上面第一篇博客下载的（最开始是从太平洋、霏凡软件等排名靠前的网站下载的，都带有病毒或捆绑了一些流氓软件，或自动安装了一些后台程序等，还好是用的虚拟机测试的），但该安装程序安装时会在安装程序所在文件夹生成两个文件，手动删除即可；
 
@@ -44,10 +46,10 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
     d、下载“voice.reg”覆盖注册表，该操作实际上就是使用上面第二篇博文中的“修改注册表”方法；
     
     简单的说：
-第1步：双击“TTSrepair.exe”进行安装
-第2步：双击“SpeechPlatformRuntime(x86).msi”进行安装
-第3步：双击“MSSpeech_TTS_zh-CN_HuiHui.msi”进行安装
-第4步：双击voice.reg”进行覆盖注册表
+        第1步：双击“TTSrepair.exe”进行安装
+        第2步：双击“SpeechPlatformRuntime(x86).msi”进行安装
+        第3步：双击“MSSpeech_TTS_zh-CN_HuiHui.msi”进行安装
+        第4步：双击voice.reg”进行覆盖注册表
     
     ```
 
