@@ -30,7 +30,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ***
 #呼叫大厅展示
 
- [![image](show_img.jpg)](https://github.com/huanglishi/electron_queuingup/blob/dd2dec5c1168434ea022d268f73c82a83508e953/show_img.jpg)
+ [![image](show_img.jpg)](https://zy.linbint.com/common/uploadfile/getimage?url=resource/uploads/20220723/1658510006_show_img.jpg)
 ***
 #呼叫操作台
 
