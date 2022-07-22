@@ -36,7 +36,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
     相关文件汇总下载：[http://pan.baidu.com/s/1pLUCvSv](下载文件地址)
     
     
-   ```
     a、下载TTSrepair.exe安装，说明：该安装程序为第三方公司提供，已经过多次测试未发现病毒，是从上面第一篇博客下载的（最开始是从太平洋、霏凡软件等排名靠前的网站下载的，都带有病毒或捆绑了一些流氓软件，或自动安装了一些后台程序等，还好是用的虚拟机测试的），但该安装程序安装时会在安装程序所在文件夹生成两个文件，手动删除即可；
 
     b、根据不同的操作系统版本下载“SpeechPlatformRuntime(x64).msi”或“SpeechPlatformRuntime(x86).msi”安装；
@@ -50,7 +49,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
         第2步：双击“SpeechPlatformRuntime(x86).msi”进行安装
         第3步：双击“MSSpeech_TTS_zh-CN_HuiHui.msi”进行安装
         第4步：双击voice.reg”进行覆盖注册表
-    ```
+
  
 
 ### 后台代码为PHP 框架为thinkphp5
