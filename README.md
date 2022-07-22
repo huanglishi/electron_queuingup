@@ -27,4 +27,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## 效果-图片
 呼叫内容为：请XX号张“到”，即为：固定内容和动态号数、姓名。
+#呼叫大厅展示
+![image](https://github.com/huanglishi/electron_queuingup/blob/main/demo_img.jpg)
+#呼叫操作台
+![image](https://github.com/huanglishi/electron_queuingup/blob/main/demo2_img.jpg)
 
