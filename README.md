@@ -34,5 +34,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ***
 #呼叫操作台
 
-![Image text](https://github.com/huanglishi/electron_queuingup/blob/main/demo2_img.jpg)
+![Image text](https://zy.linbint.com/common/uploadfile/getimage?url=resource/uploads/20220723/1658510006_show_img.jpg)
 
