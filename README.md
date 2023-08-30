@@ -48,8 +48,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
  
 
 ### 后台代码为PHP 框架为thinkphp5
-有需要代码请联系微信taijidao101
-
+有需要代码请联系微信gpflycn
 ## 效果-图片
 呼叫内容为：请XX号张“到”，即为：固定内容和动态号数、姓名。
 ***
